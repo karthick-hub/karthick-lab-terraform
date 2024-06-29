@@ -1,5 +1,5 @@
 
-name: 'terraform-Azure'
+name: 'terraform-Azure-updated'
 
 on:
   push:

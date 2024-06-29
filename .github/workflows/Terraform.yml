@@ -45,7 +45,7 @@ jobs:
 
     - name: terraform Plan
       run: terraform plan 
-      working-directory: ${{ env.ROOT_PATH }}
+      working-directory: ${{ env.ROOT_PATH}}
       
 
   terraform_apply:
